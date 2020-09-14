@@ -1,0 +1,2 @@
+Any version of torch or py works
+lfw_eval.py - test on benchmark lfw dataset
